@@ -27,7 +27,7 @@ This is the official GitHub repo that will compete with the legendary awesome Gi
 | 21 | PlanetScale |
 | 22 | Redis |
 | 23 | Surrealdb |
-| 24 | Superbase |
+| 24 | Supabase |                                                                                
 | 25 | Xata |
 | 26 | 8base |
 | 27 | Yugabyte |
