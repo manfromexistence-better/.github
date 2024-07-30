@@ -305,7 +305,7 @@ Keep watching cat videos + Saturo Gojo will definitely return after 236 chapter 
 <!-- # better
 This is the official GitHub repo that will compete with the legendary awesome GitHub repo.
 
-# Database list for Maze Winther 😊
+# Database list for Maze Winther 😊 https://x.com/mazewinther1
 | List | Database                                          | Website                                              |
 |---|---|---------------------------------------------------|
 | 1  | Cassandra + Hasura                                 | [Apache Cassandra](https://cassandra.apache.org/) & [Hasura](https://hasura.io/) |
