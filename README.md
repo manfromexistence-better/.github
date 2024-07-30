@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://dx.vercel.app">
+  <a href="https://better.vercel.app">
     <img src="./assets/logo.png" height="250">
     <h3 align="center">Better</h3>
   </a>
@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <a href="https://dx.vercel.app/docs"><strong>Documentation</strong></a> ·
-  <a href="https://dx.vercel.app/changelog"><strong>Changelog</strong></a> ·
-  <a href="https://dx.vercel.app/templates"><strong>Templates</strong></a> ·
-  <a href="https://dx.vercel.app/docs/cli"><strong>CLI</strong></a>
+  <a href="https://better.vercel.app/docs"><strong>Documentation</strong></a> ·
+  <a href="https://better.vercel.app/changelog"><strong>Changelog</strong></a> ·
+  <a href="https://better.vercel.app/templates"><strong>Templates</strong></a> ·
+  <a href="https://better.vercel.app/docs/cli"><strong>CLI</strong></a>
 </p>
 <br/>
 
@@ -21,7 +21,7 @@
  Developing experience or delightfull expreince.
 
 ## Documentation
-For details on how to use Dx, check out our [documentation](https://dx.vercel.app/docs).
+For details on how to use better, check out our [documentation](https://better.vercel.app/docs).
 
 ## Microservices new final folders list:
   | List | Folder |
@@ -58,18 +58,18 @@ For details on how to use Dx, check out our [documentation](https://dx.vercel.ap
   | 30  | cybersecurity |
 
 # Motivation
-Dx has used many other opensource github repoes in it.This is not waste of time cause that repoes are fetced automaticlly by Terminalflow and this repoes is used probably in the best way possible by maintaing their copyrights after their repective owners.I used other repoes cause Dx aims to do a lot of things besides + up + down and every way around WWW INTERNET stuffts(not native cause that problem has its own solution guess the unique name would be,,,okay okay.. donot bottheer -> DX Native -I know such a uniqe name "I know I am best at naming stuffs" [And I am too lazy so donot expect me to put logo or link to that website here do it by yourself(Ninja Tecnic For Rankning Searh In Google Search --- and I beg you please go to Dx Native ignoring my bad joke)]).
+better has used many other opensource github repoes in it.This is not waste of time cause that repoes are fetced automaticlly by Terminalflow and this repoes is used probably in the best way possible by maintaing their copyrights after their repective owners.I used other repoes cause better aims to do a lot of things besides + up + down and every way around WWW INTERNET stuffts(not native cause that problem has its own solution guess the unique name would be,,,okay okay.. donot bottheer -> better Native -I know such a uniqe name "I know I am best at naming stuffs" [And I am too lazy so donot expect me to put logo or link to that website here do it by yourself(Ninja Tecnic For Rankning Searh In Google Search --- and I beg you please go to better Native ignoring my bad joke)]).
 And many things are already maded by cool programmers.I can make it but it will littery take me months doing so.Most imporatant thing is that I donot like to build the wheel again and again in this way nothing is going to be better cause we donot live
 forever.But if you thing that this is unfair then look up to
 inspirations
 folder and delete your respective reposetry to gain access to your own products!!!
 So, moral of this story no.. of this descritption.. I mean Novel stated above is --- OpenSource conrtibution is good for your health(Donot ask me how??)
-and Dx is one of the most precious one amoung them!!!(LOL)
+and better is one of the most precious one amoung them!!!(LOL)
 How to Steall || LOL Just kidding!!! || Anything made by me in exitence plus (any+every)thing in not exitstencev like doesnot exits like now But will exit... Later!!! like me yeah... yeah yeeah me BeingOfExistence is public and free to use anywhere!!! || Just put (BeingOfExistence => Pleaaases pretty pleasaase!!!) logo in that software or anddd...  in exitence plus (any+every)thing in not exitstencev like doesnot exits like now But will exit... Later!!!!!
 
-## `manfromexistence/dx -> Getting Started`
+## `manfromexistence/better -> Getting Started`
 <details>
-<summary>So, dx by default uses new blazing fast bun runtime but you can also use npm,yarn and pnpm if you want plus some important github repos that you really want to chech yourself!</summary>
+<summary>So, better by default uses new blazing fast bun runtime but you can also use npm,yarn and pnpm if you want plus some important github repos that you really want to chech yourself!</summary>
 material-color-utilities 
 ```
 git clone https://github.com/material-foundation/material-color-utilities.git colors && cd colors && rm -rf .git && cd ..
@@ -291,18 +291,22 @@ bun start
 
 I hope these brought a smile to your face! 😊
 
+<!--
+
 ## License
-Licensed under the [MIT license](https://github.com/beingofexistence/dx/blob/main/LICENSE.md).
-This project contains the main features of the dx application.
+Licensed under the [MIT license](https://github.com/beingofexistence/better/blob/main/LICENSE.md).
+This project contains the main features of the better application.
 If you want to contribute, please refer to the [contributing guidelines](./CONTRIBUTING.md) of this project.
-
-This dx project also have a native platforms apps versions called dx-native as I mentioned before -> https://github.com/beingofexistence/dx-native.git
-
-In conclusion dx aims to make developer experience better. This project is still on its earlier stages but I am really excited for this project and will try my best to offer developers a useful project😊!!!
-
+This better project also have a native platforms apps versions called better-native as I mentioned before -> https://github.com/beingofexistence/better-native.git
+In conclusion better aims to make developer experience better. This project is still on its earlier stages but I am really excited for this project and will try my best to offer developers a useful project😊!!!
 Keep watching cat videos + Saturo Gojo will definitely return after 236 chapter in JJK(off topic 🙄) + This is BeingOfExistence signing out!!!
 
-<!-- # better
+---
+
+
+
+
+# better
 This is the official GitHub repo that will compete with the legendary awesome GitHub repo.
 
 # Database list for Maze Winther 😊 https://x.com/mazewinther1
