@@ -19,7 +19,7 @@ Now that we are talking about the important things ☝️, are you contributing 
 We contribute to the tools 🔧 we rely on to build and run better, while also maintaining 🧙‍♂️ our own open source projects like:
 
 - [BETTER CLI](https://github.com/cli/cli) - A command line tool for better
-- [Drimer](https://github.com/primer/css) - The better design system
+- [Brimer](https://github.com/primer/css) - The better design system
 
 ### 👓 Appendix
 
